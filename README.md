@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Abbos
+# 👋 Hello, I'm Kamron
 [![GitHub followers](https://img.shields.io/github/followers/abbosch1k?style=social)](https://github.com/abbosch1k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
 <a href="https://user-badge.committers.top/uzbekistan/abbosch1k">
@@ -194,7 +194,7 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 ---
 
 ## 💌 Contacts  
-📱 Telegram: [@Abboscoder1](https://t.me/@abboscoder1)  
+📱 Telegram: [@menace1991](https://t.me/@abboscoder1)  
 
 ---
 ### 🌟 **Thank You for Visiting!**
